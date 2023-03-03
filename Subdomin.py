@@ -11,6 +11,7 @@ print("""
 # lib
 import requests
 # User Input
+print('Example : google.com ')
 domin = input("Enter The Domin Name : ")
 # WordList Of File
 file = open("wordlist.txt",'r')
